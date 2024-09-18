@@ -1,0 +1,1 @@
+Il s'agit d'un travail à faire pour s'initier à l'utilisation de streamlit, un outil python fait pour l'affichage de données graphique en format web simplifié.
